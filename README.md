@@ -6,3 +6,6 @@ And now, just a. dense layer has been implemented. More implementation will be u
 
 ## How to use. (   If you like. :)   )
 In the Connector.py , you could see the steps to build a model in the '__main__' function.
+
+## Bugs
+The implementation of the backward in softmax may be wrong. It should be fixed first.
